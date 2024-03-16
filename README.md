@@ -1,4 +1,8 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=2chacode.2chacode&right_color=firebrick"  />
 
+###
+
+<h1 align="center">“Yes, now there is a God”</h1>
 
 ###
 
@@ -13,52 +17,47 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/2chacode/count.svg?"  />
-</div>
+<h2 align="left">👩‍💻  WHO AM I?</h2>
 
 ###
 
-<h1 align="center">AI & ML & DL Enthusiast</h1>
+<h3 align="left">I'm Çağatay Serttaş from Turkey.<br><br>💻 Started in web development in 2017, igniting my tech curiosity.<br>🔄 Shifted focus to AI, exploring Python and data science.<br>🤖 Currently deepening skills in NLP, ML, and DL; developing projects and following trends.<br>🤝 Keen on collaborating in AI to tackle real-world challenges.<br>🌱 Committed to lifelong learning in AI for cutting-edge innovation.<br>✨ My journey from web to AI reflects growth and a drive to impact the future of technology.</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<h5 align="left">I'm Cagatay Serttas from Turkey.<br><br>• 🔭 I’m diving into Artificial Intelligence, with a keen focus on Machine Learning, Deep Learning, and Natural Language Processing.<br>• 📚 I'm currently enhancing my skills in AI technologies, exploring the latest trends and tools in the field.<br>• ⚡ In my free time, I experiment with AI projects, read about tech innovations, and connect with fellow enthusiasts.</h5>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Languages and Tools I Use</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
 </div>
 
 ###
+
+<h2 align="left">📚 Libraries I Use</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+</div>
+
+###
+
